@@ -57,8 +57,7 @@ The goal is simple: learn by building, document the process, and turn ideas into
 ## Connect
 
 🌐 **Website:** https://soebaftab.github.io/human-node-arcade/  
-💼 **LinkedIn:** https://www.linkedin.com/in/mdsoebaftab/  
-𝕏 **X:** https://x.com/ChainSignalNet  
+𝕏 **X:** https://x.com/ChainSignalHQC
 📧 **Email:** soebaftaben69@gmail.com
 
 ---
