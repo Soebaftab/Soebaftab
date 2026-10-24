@@ -1,65 +1,93 @@
 # Soeb Aftab
 
-### Civil Engineer → Web3 Builder
-**Blockchain • AI • On-chain Research • Digital Identity • Practical Projects**
+**Civil Engineer | Construction Site Supervision | Quality Assurance | Project Coordination**
 
-I’m a Civil Engineer exploring the intersection of engineering thinking, Web3, blockchain systems, AI, and digital identity.
+Bangladesh
 
-I build small, practical projects to understand emerging technologies by actually experimenting with them — then document what I learn.
+I am a Civil Engineering graduate from the University of Asia Pacific with practical experience in building construction, site supervision, structural work checks, surveying, cost estimation, material planning, and project coordination.
 
----
+I value careful site observation, clear documentation, and checking construction work against relevant drawings and project requirements.
 
-## What I’m Exploring
+## Professional Experience
 
-- ⛓️ Blockchain & Web3 systems
-- 🧠 AI + emerging technology
-- 🪪 Digital identity & proof-of-personhood concepts
-- 🌐 On-chain systems and decentralized networks
-- 🎮 Experimental Web3-inspired applications
-- 🔬 Independent technical research & documentation
+### Junior Project Engineer
+**M/S Bhuiyan Construction & Engineering**  
+December 2022 – September 2024
 
----
+- Observed and coordinated building construction site activities.
+- Checked reinforcement dimensions, bar spacing, lap lengths, and concrete cover against relevant structural drawings and project documentation, where applicable.
+- Supported surveying, setting out, and foundation and column layout activities.
+- Assisted with cost estimation, material planning, cost control, and project coordination.
+- Coordinated construction activities with relevant project stakeholders.
 
-## Featured Project
+## Selected Project Experience
 
-### 🎮 Human Node Arcade
+ ### Duplex Residential Building
 
-An independent browser-game experiment exploring **human signals, reflex, networks, and digital identity** through a lightweight Web3-inspired experience.
+February–December 2025 | Site Supervision & Construction Monitoring
 
-**Built with:** HTML • CSS • JavaScript • GitHub Pages
+- Monitored daily construction activities and workmanship throughout the project.
+- Observed RCC work, reinforcement, formwork, masonry, plastering, and finishing.
+- Checked reinforcement details against structural drawings and project documentation.
 
-🔗 **[Play Human Node Arcade](https://soebaftab.github.io/human-node-arcade/)**  
-📂 **[View the Repository](https://github.com/Soebaftab/human-node-arcade)**
+Plot Area: 1,729 sq ft (38 ft × 45.5 ft) 
 
-> Experimental project — not an official identity, reputation, mining, or personhood verification system.
+### Other Selected Building Projects
 
----
+- **12-Storey Office Building:** Building with two basement levels.
+- **NINS Expansion:** S.B. Nagar.
+- **DTE Building:** Vertical extension project.
 
-## Engineering Background
+*Project listings describe professional project exposure. Specific responsibilities should be confirmed against available records.*
+
+## Technical Work & Research
+
+### [Developing Excel Sheet for Design of Pile Cap](https://www.researchgate.net/publication/415124307_Developing_Excel_Sheet_for_Design_of_Pile_Cap)
+
+Undergraduate thesis, B.Sc. in Civil Engineering, University of Asia Pacific (2021).
+
+### [MonsoonMind: An AI Early-Warning Framework for Predicting Weather-Driven Construction Delays in Bangladesh](https://www.researchgate.net/publication/415124598_MonsoonMind_An_AI_Early-Warning_Framework_for_Predicting_Weather-Driven_Construction_Delays_in_Bangladesh)
+
+A proposed research framework exploring how rainfall, river-level information, and site progress data could help anticipate construction delays in Bangladesh. Concept stage; no results reported.
+
+## Education
 
 **B.Sc. in Civil Engineering**  
-University of Asia Pacific
+University of Asia Pacific | 2018–2022
 
-My engineering background shapes how I approach technology:  
-**observe → analyze → build → test → document.**
+## Professional Membership
 
----
+**Associate Member (AMIEB)**  
+The Institution of Engineers, Bangladesh (IEB)  
+Issued: December 2022  
+Credential ID: A25692
 
-## Current Direction
+## Core Skills
 
-I’m building a portfolio around practical experimentation in:
+- Construction Site Supervision
+- Structural Work Checks
+- Quality Assurance
+- Surveying and Setting Out
+- BOQ and Cost Estimation
+- Material Planning
+- Project Coordination
+- MS Excel and MS Office
 
-**Engineering × Web3 × AI × Digital Identity**
+## Engineering Approach
 
-The goal is simple: learn by building, document the process, and turn ideas into working prototypes.
----
+**Observe → Verify → Measure → Document**
+
+I approach engineering problems by observing site conditions, checking relevant drawings and project requirements, verifying measurements, and documenting findings clearly.
+
+## Professional Interests
+
+Building construction, construction quality, quantity estimation, practical site coordination, and construction project management.
 
 ## Connect
 
-🌐 **Website:** https://soebaftab.github.io/human-node-arcade/  
-𝕏 **X:** https://x.com/ChainSignalHQC
-📧 **Email:** soebaftaben69@gmail.com
+- **Portfolio:** https://soebaftab.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/mdsoebaftab/
 
 ---
 
-### Building in public. Learning through experiments. Documenting the signal.
+*Focused on practical engineering work, continuous learning, and responsible construction practices.*
