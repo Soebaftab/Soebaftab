@@ -1,93 +1,62 @@
 # Soeb Aftab
 
-**Civil Engineer | Construction Site Supervision | Quality Assurance | Project Coordination**
+**Civil engineer in Dhaka, Bangladesh.** Site execution, BOQ and construction coordination.
 
-Bangladesh
+Open to civil, site and project engineer roles in Bangladesh.
 
-I am a Civil Engineering graduate from the University of Asia Pacific with practical experience in building construction, site supervision, structural work checks, surveying, cost estimation, material planning, and project coordination.
+[Portfolio website](https://soebaftab.github.io/) · [CV (PDF)](https://soebaftab.github.io/Soeb_Aftab_Civil_Engineer_CV.pdf) · [Project portfolio (PDF)](https://soebaftab.github.io/Soeb_Aftab_Project_Portfolio.pdf) · [LinkedIn](https://www.linkedin.com/in/mdsoebaftab/) · [Email](mailto:engr.soebaftab@gmail.com)
 
-I value careful site observation, clear documentation, and checking construction work against relevant drawings and project requirements.
+## About
 
-## Professional Experience
+I am a civil engineer with a B.Sc. from the University of Asia Pacific (2022). I spent 21 months on three Public Works Department (PWD) building projects in Dhaka, marking layouts, checking levels, taking BOQ quantities and settling clashes with the main civil contractor. In 2025 I supervised a G+1 RCC duplex in Tangail from foundation to finishing.
 
-### Junior Project Engineer
-**M/S Bhuiyan Construction & Engineering**  
-December 2022 – September 2024
+I work from approved drawings, BNBC and BOQ quantities, and I keep records someone else can check: level sheets, measurements, variance notes and handover logs.
 
-- Observed and coordinated building construction site activities.
-- Checked reinforcement dimensions, bar spacing, lap lengths, and concrete cover against relevant structural drawings and project documentation, where applicable.
-- Supported surveying, setting out, and foundation and column layout activities.
-- Assisted with cost estimation, material planning, cost control, and project coordination.
-- Coordinated construction activities with relevant project stakeholders.
+## Experience
 
-## Selected Project Experience
+**Site Engineer (Independent / Contractual)**, private G+1 RCC duplex, Tangail. February to December 2025
+- Supervised work from foundation to superstructure and finishing on a 1,742 sq ft plot (2,200 sq ft built-up area).
+- Checked shuttering, bar diameter, spacing, lap length and clear cover before every casting.
+- Worked out reinforcement quantities, measured completed work and checked contractor payments against site measurements.
 
- ### Duplex Residential Building
+**Junior Project Engineer**, M/S Bhuiyan Construction & Engineering, Dhaka. December 2022 to September 2024
+- Civil engineer on the company's electrical and allied works packages across three PWD building projects.
+- Set out openings, risers and cable routes, and checked floor levels against approved drawings.
+- Settled clashes with the main civil contractor and MEP teams, and logged area-wise handovers.
+- Prepared BOQ quantities for civil support items and kept signed level check sheets.
 
-February–December 2025 | Site Supervision & Construction Monitoring
+**Business Development Manager (Part-Time)**, Orbit Education, Dhaka. January 2025 to February 2026
+- Onboarded clients, researched the market and coordinated programs.
 
-- Monitored daily construction activities and workmanship throughout the project.
-- Observed RCC work, reinforcement, formwork, masonry, plastering, and finishing.
-- Checked reinforcement details against structural drawings and project documentation.
+## Projects
 
-Plot Area: 1,729 sq ft (38 ft × 45.5 ft) 
+| Project | Where | What I did |
+| --- | --- | --- |
+| Bangladesh NGO Foundation Office (12 storeys, 2 basements) | PWD, Sher-e-Bangla Nagar | Opening layouts, level checks and handover records for LT cable distribution, control panels and AC rising cables |
+| NINS Hospital Expansion | PWD, Sher-e-Bangla Nagar | Plinth levels, equipment layout marks, and clashes in MDB and FDB rooms and feeder routes |
+| Parliament Bhaban North Plaza Conversion | PWD, Dhaka | Service route marks, riser point levels and room readiness |
+| G+1 RCC duplex | Private, Tangail | Full site supervision, quantities and payments from measured work |
 
-### Other Selected Building Projects
+## Research and tools
 
-- **12-Storey Office Building:** Building with two basement levels.
-- **NINS Expansion:** S.B. Nagar.
-- **DTE Building:** Vertical extension project.
+- [Developing Excel Sheet for Design of Pile Cap](https://www.researchgate.net/publication/415124307_Developing_Excel_Sheet_for_Design_of_Pile_Cap): B.Sc. thesis (2021), AASHTO ASD method, supervised by Dr. Md. Abdur Rouf.
+- [MonsoonMind](https://www.researchgate.net/publication/415124598_MonsoonMind_An_AI_Early-Warning_Framework_for_Predicting_Weather-Driven_Construction_Delays_in_Bangladesh): concept paper (January 2026) on forecasting weather-driven construction delays in Bangladesh with Random Forest, Gradient Boosting, LSTM and SHAP. No results yet.
+- Rainfall vs site progress dashboard: MS Excel dashboard comparing monthly rainfall with planned and actual progress.
 
-*Project listings describe professional project exposure. Specific responsibilities should be confirmed against available records.*
+## Skills
 
-## Technical Work & Research
+- **Site work:** layout and setting out, level control, site surveying, RCC casting and curing checks
+- **Checks and records:** reinforcement and shuttering checks, drawing verification, level sheets, handover logs
+- **Quantities:** BOQ quantity takeoff, reinforcement quantities, billing verification, variance notes
+- **Coordination:** Civil–MEP interface coordination, clash resolution
+- **Software and codes:** AutoCAD, MS Excel, ETABS (academic level), MS Word, MS PowerPoint, BNBC Parts 5 and 7
 
-### [Developing Excel Sheet for Design of Pile Cap](https://www.researchgate.net/publication/415124307_Developing_Excel_Sheet_for_Design_of_Pile_Cap)
+## Education and credentials
 
-Undergraduate thesis, B.Sc. in Civil Engineering, University of Asia Pacific (2021).
+- B.Sc. in Civil Engineering, University of Asia Pacific (UAP), Dhaka. 2018 to 2022
+- Associate Member, Institution of Engineers, Bangladesh (IEB). No. A25692
+- Essentials of Data Visualization using MS Excel, UniAthena. December 2023
 
-### [MonsoonMind: An AI Early-Warning Framework for Predicting Weather-Driven Construction Delays in Bangladesh](https://www.researchgate.net/publication/415124598_MonsoonMind_An_AI_Early-Warning_Framework_for_Predicting_Weather-Driven_Construction_Delays_in_Bangladesh)
+## Contact
 
-A proposed research framework exploring how rainfall, river-level information, and site progress data could help anticipate construction delays in Bangladesh. Concept stage; no results reported.
-
-## Education
-
-**B.Sc. in Civil Engineering**  
-University of Asia Pacific | 2018–2022
-
-## Professional Membership
-
-**Associate Member (AMIEB)**  
-The Institution of Engineers, Bangladesh (IEB)  
-Issued: December 2022  
-Credential ID: A25692
-
-## Core Skills
-
-- Construction Site Supervision
-- Structural Work Checks
-- Quality Assurance
-- Surveying and Setting Out
-- BOQ and Cost Estimation
-- Material Planning
-- Project Coordination
-- MS Excel and MS Office
-
-## Engineering Approach
-
-**Observe → Verify → Measure → Document**
-
-I approach engineering problems by observing site conditions, checking relevant drawings and project requirements, verifying measurements, and documenting findings clearly.
-
-## Professional Interests
-
-Building construction, construction quality, quantity estimation, practical site coordination, and construction project management.
-
-## Connect
-
-- **Portfolio:** https://soebaftab.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/mdsoebaftab/
-
----
-
-*Focused on practical engineering work, continuous learning, and responsible construction practices.*
+Dhaka, Bangladesh · [engr.soebaftab@gmail.com](mailto:engr.soebaftab@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mdsoebaftab/) · [Portfolio](https://soebaftab.github.io/)
